@@ -1,0 +1,27 @@
+MVP - Reserva de canchas de futbol
+
+- Semana 29 nov
+- - Definir que proyecto hacer
+
+- Semana 7 diciembre
+- - Wireframes
+
+
+- Semana del 14 diciembre
+- - Funcional
+- - - User: Login, Sign in
+- - - - ver canchas registradas dentro de la plataforma, informacion completa (ubicacion, precio x hora)
+- - - - - - - - - mostrar agenda en rojo y verde
+- - - - - click a uno, me muestra los horarios disponibles
+- - - - confimar/separar cancha
+*** - - - - - desplegar lista de reservas (mostrarlo como un to do) ** en planeamiento
+
+- - - Admin: add, edit, delete canchas
+- - - - admin al crear perfil, deseable con 2 fotos del campo y una tercera opcional del permiso de funcionamiento
+- - - Mostrar formulario de contacto
+
+
+
+
+
+- - - html/css 
