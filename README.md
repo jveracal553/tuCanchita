@@ -60,16 +60,20 @@ App de reserva de citas para algún servicio
     -- Servicios
     -- Comentarios
 
--- Quisiera poder separar/cancelar un horario en alguna cancha disponible.
--- Quisiera poder inscribirme en un torneo junto a un equipo.
--- Quisiera poder unirme a un equipo que necesite jugadores para completar
--- Quisiera crear/eliminar mis equipos asi como agregar judores y salirme del equipo
--- Quisiera ver las reservas que tengo separadas
--- Quisiera pagar de manera online la reserva de cancha.
+- Quisiera poder separar/cancelar un horario en alguna cancha disponible.
+- Quisiera poder inscribirme en un torneo junto a un equipo.
+- Quisiera poder unirme a un equipo que necesite jugadores para completar
+- Quisiera crear/eliminar mis equipos asi como agregar judores y salirme del equipo
+- Quisiera ver las reservas que tengo separadas
+- Quisiera pagar de manera online la reserva de cancha.
+- Quisiera enviar la ubicacion de la cancha que separé por whatsapp
+- Quisiera tener un recordatorio para poder asistir en el horario separado
 
 
 ### DUEÑO DE CANCHA
-
+-- Quiero enviar informacion de mi cancha, precio segun horario
+-- Quiero que se muestren mis redes sociales
+-- Quisiera poder indicar que un horario ha sido separado por fuera de la pagina web
 
 
 
@@ -80,6 +84,9 @@ App de reserva de citas para algún servicio
 - Al unirme a un equipo incompleto:
     -- pago el precio que piden al momento de ingresar (para asegurar que iré)
     -- que pasa si me uno y el equipo termina cancelando el horario.
+
+
+-- Debajo del precio de cancha que se vea con cuanto se separa
 
 
 
